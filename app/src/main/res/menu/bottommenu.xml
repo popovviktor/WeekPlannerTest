@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/nav_home"
+        android:title=""
+        android:icon="@drawable/ic_baseline_home_24"
+        />
+    <item android:id="@+id/nav_calendar"
+        android:title=""
+        android:icon="@drawable/ic_outline_calendar_month_24"
+        />
+    <item android:id="@+id/nav_other1"
+        android:title=""
+        android:icon="@drawable/ic_baseline_chat_bubble_24"
+        />
+    <item android:id="@+id/nav_other2"
+        android:title=""
+        android:icon="@drawable/ic_baseline_person_24"
+        />
+</menu>
